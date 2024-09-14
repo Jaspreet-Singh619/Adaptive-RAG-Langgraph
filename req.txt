@@ -1,9 +1,11 @@
-langchain_community
+langchain-community
 tiktoken
-langchain-openai
-langchain-cohere
+langchain_anthropic
 langchainhub
 chromadb
 langchain
 langgraph
-tavily-python
+langchain-text-splitters
+InstructorEmbedding
+sentence_transformers
+bs4
